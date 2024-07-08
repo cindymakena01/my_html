@@ -1,0 +1,63 @@
+body{
+    background-image: url(prince.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cindy{
+    color: orange;
+    margin-left: 20px;
+    font-size: 40px;
+}
+h1{
+    color: black;
+    margin-left: 50px;
+    margin-top: 130px;
+    font-size: 200%;
+
+}
+.one{
+    color: black;
+    margin-left: 120px;
+    font-size: large;
+}
+.two{
+    color: black;
+    margin-left: 25px;
+    font-size: large;
+}
+.three{
+    color: black;
+    margin-left: 25px;
+    font-size: large;
+}
+.four{
+    color: black;
+    margin-left: 25px;
+    font-size: large;
+}
+.five{
+    color: black;
+    margin-left: 25px;
+    font-size: large;
+}
+.p-one{
+    color: black;
+    margin-left: 50px;
+    font-size: large;
+}
+button{
+    color: black;
+    background-color: orange;
+    border-radius: 4px;
+    font-size: large;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 60px;
+    margin-top: 19px;
+}
+.form{
+    color: orange;
+    position: fixed;
+}
